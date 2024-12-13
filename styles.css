@@ -21,6 +21,15 @@ h3 {
   font-family: sans-serif;
 }
 
+.persistent-header {
+  background-color: darkcyan;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 3%;
+}
+
 .links-list li {
   display: inline-block;
 }
