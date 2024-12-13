@@ -21,19 +21,70 @@ h3 {
   font-family: sans-serif;
 }
 
-.persistent-header {
-  background-color: darkcyan;
-  color: white;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px 3%;
-}
-
 .links-list li {
   display: inline-block;
 }
 
 .links-list a {
   color: whitesmoke;
+}
+
+.main-content {
+  width: 75%;
+  margin: 0 auto;
+  background-color: green;
+  padding: 10px 60px 45px;
+}
+
+.main-content > hr {
+  margin-bottom: 25px;
+}
+
+.main-content section {
+  background-color: white;
+  margin-bottom: 30px;
+  padding-top: 20px;
+}
+
+.main-content section hr {
+  width: 90%;
+  margin: 0 auto;
+  border-color: red;
+}
+
+.main-content section h3 {
+  margin-left: 5%;
+  font-size: 28px;
+  font-weight: 400;
+}
+
+.section-content {
+  padding: 13px;
+  padding-left: 5%;
+}
+
+.section-content p {
+  margin: 10px;
+  margin-left: 0;
+  line-height: 1.4;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.section-content img {
+  float: right;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+section:nth-of-type(2) .section-content img {
+  float: left;
+  margin-left: 0;
+  margin-right: 10px;
+}
+
+.main-content > h2 {
+  color: white;
+  font-weight: 300;
+  margin-bottom: 10px;
 }
