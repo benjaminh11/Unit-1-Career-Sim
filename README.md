@@ -1,1 +1,1 @@
-this repo contains all of the work I did for te unit 1 career sim. my main page is index.html, and the subsequent pages can be found in the html folder. the about and portfolio pages also have their own styling sheets in the html folder.
+this repo contains all of the work I did for te unit 1 career sim. my main page is index.html, and the subsequent pages can be found in the html folder.
