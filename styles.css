@@ -5,7 +5,7 @@
 }
 
 .persistent-header {
-  background-color: grey;
+  background-color: lightcoral;
   color: whitesmoke;
   display: flex;
   justify-content: space-between;
@@ -13,12 +13,16 @@
   padding: 20px 3%;
 }
 
+body {
+  background: no-repeat center/150% url(./img/wave.jpg);
+}
+
 a,
 h1,
 h2,
 h3 {
   text-decoration: none;
-  font-family: sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .links-list li {
@@ -32,7 +36,7 @@ h3 {
 .main-content {
   width: 75%;
   margin: 0 auto;
-  background-color: violet;
+  background-color: rgba(238, 130, 238, 0);
   padding: 10px 60px 45px;
 }
 
@@ -41,7 +45,7 @@ h3 {
 }
 
 .main-content section {
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.425);
   margin-bottom: 150px;
   padding-top: 20px;
   padding-bottom: 60px;
@@ -50,7 +54,7 @@ h3 {
 .main-content section hr {
   width: 90%;
   margin: 0 auto;
-  border-color: gold;
+  border-color: rgb(0, 162, 255);
 }
 
 .main-content section h3 {
