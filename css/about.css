@@ -42,8 +42,9 @@ h3 {
 
 .main-content section {
   background-color: white;
-  margin-bottom: 30px;
+  margin-bottom: 150px;
   padding-top: 20px;
+  padding-bottom: 60px;
 }
 
 .main-content section hr {
