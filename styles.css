@@ -13,6 +13,14 @@
   padding: 20px 3%;
 }
 
+.persistent-footer {
+  background-color: lightcoral;
+  color: whitesmoke;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 3%;
+  text-align: center;
+}
 body {
   background: no-repeat center/150% url(./img/wave.jpg);
 }
