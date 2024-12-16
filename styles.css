@@ -42,6 +42,7 @@ h3 {
 
 .main-content > hr {
   margin-bottom: 25px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .main-content section {
@@ -73,13 +74,11 @@ h3 {
   margin-left: 0;
   line-height: 1.4;
   font-size: 18px;
-  font-family: sans-serif;
 }
 
 .section-content img {
   float: right;
   display: flex;
-  width: 150px;
 }
 
 section:nth-of-type(2) .section-content img {
