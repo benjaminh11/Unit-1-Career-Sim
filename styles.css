@@ -42,8 +42,9 @@ h3 {
 
 .main-content section {
   background-color: white;
-  margin-bottom: 30px;
+  margin-bottom: 150px;
   padding-top: 20px;
+  padding-bottom: 60px;
 }
 
 .main-content section hr {
@@ -73,8 +74,8 @@ h3 {
 
 .section-content img {
   float: right;
-  margin-left: 10px;
-  margin-top: 10px;
+  display: flex;
+  width: 150px;
 }
 
 section:nth-of-type(2) .section-content img {
