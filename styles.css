@@ -100,3 +100,24 @@ section:nth-of-type(2) .section-content img {
   font-weight: 300;
   margin-bottom: 10px;
 }
+
+form {
+  text-align: center;
+}
+
+footer {
+  position: relative;
+  bottom: 1px;
+  width: 100%;
+}
+
+.footer2 {
+  position: absolute;
+  bottom: 1px;
+  width: 100%;
+}
+
+.success {
+  align-items: center;
+  color: black;
+}
